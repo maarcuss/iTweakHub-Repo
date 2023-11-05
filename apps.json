@@ -1,0 +1,50 @@
+{
+    "Info": {
+        "repoName": "maarcuss iTweakHub Repo",
+        "repoAuthor": "maarcuss, swaggyP36000",
+        "repoVersion": "1.0",
+        "repoIcon": "https://github.com/Ibinou/iTweakHub/blob/main/img/1692882661.243033-B96EE26F-9FC1-44FF-8A32-934A3D779A1A.png?raw=true"
+    },
+    "Apps": [
+        {
+            "name": "InfusePro",
+            "developer": "",
+            "version": "7.6.2",
+            "banner": "",
+            "ipa": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-03-2023/InfusePro-7.6.2.ipa",
+            "screenshots": [
+            ],
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
+            "compatibility": "",
+            "description": "",
+            "section": "Tweaked Apps"
+        },
+        {
+            "name": "SnapchatWicked",
+            "developer": "",
+            "version": "12.58",
+            "banner": "",
+            "ipa": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-30-2023/SnapchatWicked-12.58.ipa",
+            "screenshots": [
+            ],
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png",
+            "compatibility": "",
+            "description": "",
+            "section": "Tweaked Apps"
+        },
+        {
+            "name": "uYouPlus",
+            "developer": "",
+            "version": "18.4.1-3.0",
+            "banner": "",
+            "ipa": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
+            "screenshots": [
+            ],
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+            "compatibility": "",
+            "description": "",
+            "section": "Tweaked Apps"
+        },
+    ]
+}
+  
