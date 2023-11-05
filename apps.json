@@ -45,6 +45,32 @@
             "description": "",
             "section": "Tweaked Apps"
         },
+        {
+            "name": "Snapchat Ultimate",
+            "developer": "",
+            "version": "12.58.0.61",
+            "banner": "",
+            "ipa": "https://download.starfiles.co/eZywqvd2d0BU",
+            "screenshots": [
+            ],
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png",
+            "compatibility": "",
+            "description": "",
+            "section": "Tweaked Apps"
+        },
+        {
+            "name": "PhotomathPlus",
+            "developer": "",
+            "version": "8.31.1",
+            "banner": "",
+            "ipa": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-23-2023/PhotomathPlus-8.31.1.ipa",
+            "screenshots": [
+            ],
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png",
+            "compatibility": "",
+            "description": "",
+            "section": "Tweaked Apps"
+        },
     ]
 }
   
