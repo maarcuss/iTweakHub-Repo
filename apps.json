@@ -71,6 +71,19 @@
             "description": "",
             "section": "Tweaked Apps"
         },
+        {
+            "name": "BHTikTokPlus",
+            "developer": "",
+            "version": "31.9.0-2.3",
+            "banner": "",
+            "ipa": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BHTikTokPlus-31.9.0-2.3.ipa",
+            "screenshots": [
+            ],
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+            "compatibility": "",
+            "description": "",
+            "section": "Tweaked Apps"
+        }
     ]
 }
   
